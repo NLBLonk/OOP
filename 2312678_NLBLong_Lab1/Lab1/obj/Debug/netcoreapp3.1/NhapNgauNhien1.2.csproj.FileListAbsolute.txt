@@ -1,0 +1,13 @@
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\bin\Debug\netcoreapp3.1\NhapNgauNhien1.2.exe
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\bin\Debug\netcoreapp3.1\NhapNgauNhien1.2.deps.json
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\bin\Debug\netcoreapp3.1\NhapNgauNhien1.2.runtimeconfig.json
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\bin\Debug\netcoreapp3.1\NhapNgauNhien1.2.runtimeconfig.dev.json
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\bin\Debug\netcoreapp3.1\NhapNgauNhien1.2.dll
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\bin\Debug\netcoreapp3.1\NhapNgauNhien1.2.pdb
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\obj\Debug\netcoreapp3.1\NhapNgauNhien1.2.csprojAssemblyReference.cache
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\obj\Debug\netcoreapp3.1\NhapNgauNhien1.2.AssemblyInfoInputs.cache
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\obj\Debug\netcoreapp3.1\NhapNgauNhien1.2.AssemblyInfo.cs
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\obj\Debug\netcoreapp3.1\NhapNgauNhien1.2.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\obj\Debug\netcoreapp3.1\NhapNgauNhien1.2.dll
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\obj\Debug\netcoreapp3.1\NhapNgauNhien1.2.pdb
+C:\Users\CICT\Desktop\2312678_NLBLong_Lab1\NhapNgauNhien1.2\obj\Debug\netcoreapp3.1\NhapNgauNhien1.2.genruntimeconfig.cache

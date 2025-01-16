@@ -1,0 +1,14 @@
+H:\Hướng đối tượng\KeThua_QLHinhHoc\KeThua_QLHinhHoc\bin\Debug\KeThua_QLHinhHoc.exe.config
+H:\Hướng đối tượng\KeThua_QLHinhHoc\KeThua_QLHinhHoc\bin\Debug\KeThua_QLHinhHoc.exe
+H:\Hướng đối tượng\KeThua_QLHinhHoc\KeThua_QLHinhHoc\bin\Debug\KeThua_QLHinhHoc.pdb
+H:\Hướng đối tượng\KeThua_QLHinhHoc\KeThua_QLHinhHoc\obj\Debug\KeThua_QLHinhHoc.csproj.AssemblyReference.cache
+H:\Hướng đối tượng\KeThua_QLHinhHoc\KeThua_QLHinhHoc\obj\Debug\KeThua_QLHinhHoc.csproj.CoreCompileInputs.cache
+H:\Hướng đối tượng\KeThua_QLHinhHoc\KeThua_QLHinhHoc\obj\Debug\KeThua_QLHinhHoc.exe
+H:\Hướng đối tượng\KeThua_QLHinhHoc\KeThua_QLHinhHoc\obj\Debug\KeThua_QLHinhHoc.pdb
+\\Mac\Home\Desktop\KeThua_QLHinhHoc\KeThua_QLHinhHoc\bin\Debug\KeThua_QLHinhHoc.exe.config
+\\Mac\Home\Desktop\KeThua_QLHinhHoc\KeThua_QLHinhHoc\bin\Debug\KeThua_QLHinhHoc.exe
+\\Mac\Home\Desktop\KeThua_QLHinhHoc\KeThua_QLHinhHoc\bin\Debug\KeThua_QLHinhHoc.pdb
+\\Mac\Home\Desktop\KeThua_QLHinhHoc\KeThua_QLHinhHoc\obj\Debug\KeThua_QLHinhHoc.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\KeThua_QLHinhHoc\KeThua_QLHinhHoc\obj\Debug\KeThua_QLHinhHoc.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\KeThua_QLHinhHoc\KeThua_QLHinhHoc\obj\Debug\KeThua_QLHinhHoc.exe
+\\Mac\Home\Desktop\KeThua_QLHinhHoc\KeThua_QLHinhHoc\obj\Debug\KeThua_QLHinhHoc.pdb

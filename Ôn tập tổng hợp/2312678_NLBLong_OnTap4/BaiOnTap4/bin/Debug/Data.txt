@@ -1,0 +1,10 @@
+﻿Car,Toyota Yaris,50,5.68,4000,Toyota,2014
+Car,Ford Mustang,90,7.50,5000,Ford,2018
+Ship,Bertrsm 28CC,100,6.79,7000,Bertrsm,2020
+Ship,Titanic,100,8.78,100000,Titanic,2005
+Car,Huyndai I10,50,4.78,12000,Huyndai,2010
+Seaplane,Husky,80,3.35,7500,Husky,2016
+Seaplane,Cessana 208,180,3.45,2000,Cessana,2021
+Submarine,SNLE-30,120,5.30,3000,Army Submarine,2010
+Submarine,Type 214,100,5.50,150000,Army Submarine,1998
+Car,Toyota Camry,90,7.30,3500,Toyota,2022

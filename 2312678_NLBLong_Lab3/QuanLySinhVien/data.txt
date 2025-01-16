@@ -1,0 +1,10 @@
+﻿001,Nguyen Van An          ,8.0,Nu,CTK43
+002,Le Thi Bich Nu         ,5.0,Nu,CTK42
+003,Tran Van Cuong         ,4.0,Nam,CTK47
+004,Nguyen Tran Dan Truong ,9.0,Nam,CTK47
+005,La Van Cung            ,7.0,Nam,CTK48
+006,Tran Phuong My         ,6.5,Nu,CTK43
+007,Phung Tran Giang       ,8.9,Nu,CTK46
+008,Le Duc Thang           ,7.0,Nam,CTK47
+009,Luu Van Luyen          ,8.5,Nam,CTK47
+010,Tran Thi Duc Bo        ,6.0,Nu,CTK46

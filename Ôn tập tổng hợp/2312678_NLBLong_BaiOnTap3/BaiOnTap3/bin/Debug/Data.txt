@@ -1,0 +1,31 @@
+﻿NhanVien,1,Le Van,Minh,10/06/1960,02/05/1986,1
+NhanVien,2,Nguyen Thi,Mai,20/04/1970,04/07/2001,1
+NhanVien,3,Le Anh,Tuan,25/06/1975,01/09/1982,2
+NhanVien,4,Vuong Tuan,Vu,25/03/1960,12/01/1986,2
+NhanVien,5,Ly Anh,Han,01/12/1980,15/05/2004,2
+NhanVien,6,Phan Le,Tuan,04/06/1976,25/10/2002,3
+NhanVien,7,Le Tuan,Tu,15/08/1975,15/08/2000,3
+ChiNhanh,1,Quan 1
+ChiNhanh,2,Quan 5
+ChiNhanh,3,Binh Thanh
+KyNang,1,Word
+KyNang,2,Excel
+KyNang,3,Access
+KyNang,4,Power Point
+KyNang,5,SPSS
+NhanVienKyNang,1,1,2
+NhanVienKyNang,1,2,1
+NhanVienKyNang,2,1,2
+NhanVienKyNang,2,3,2
+NhanVienKyNang,3,2,1
+NhanVienKyNang,3,3,2
+NhanVienKyNang,4,1,5
+NhanVienKyNang,4,2,4
+NhanVienKyNang,4,3,1
+NhanVienKyNang,5,2,4
+NhanVienKyNang,5,4,4
+NhanVienKyNang,6,5,4
+NhanVienKyNang,6,2,4
+NhanVienKyNang,6,3,2
+NhanVienKyNang,7,3,4
+NhanVienKyNang,7,4,3

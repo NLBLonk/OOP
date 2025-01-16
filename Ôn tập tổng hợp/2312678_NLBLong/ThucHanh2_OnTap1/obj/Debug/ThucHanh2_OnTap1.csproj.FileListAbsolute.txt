@@ -1,0 +1,16 @@
+C:\Users\CICT\Downloads\2312678_NLBLong\ThucHanh2_OnTap1\bin\Debug\ThucHanh2_OnTap1.exe.config
+C:\Users\CICT\Downloads\2312678_NLBLong\ThucHanh2_OnTap1\bin\Debug\ThucHanh2_OnTap1.exe
+C:\Users\CICT\Downloads\2312678_NLBLong\ThucHanh2_OnTap1\bin\Debug\ThucHanh2_OnTap1.pdb
+C:\Users\CICT\Downloads\2312678_NLBLong\ThucHanh2_OnTap1\obj\Debug\ThucHanh2_OnTap1.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\2312678_NLBLong\ThucHanh2_OnTap1\obj\Debug\ThucHanh2_OnTap1.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\2312678_NLBLong\ThucHanh2_OnTap1\obj\Debug\ThucHanh2_OnTap1.exe
+C:\Users\CICT\Downloads\2312678_NLBLong\ThucHanh2_OnTap1\obj\Debug\ThucHanh2_OnTap1.pdb
+C:\Users\CICT\Downloads\2312678_NLBLong\ThucHanh2_OnTap1\bin\Debug\Data.txt
+\\Mac\Home\Documents\2312678_NLBLong\ThucHanh2_OnTap1\bin\Debug\Data.txt
+\\Mac\Home\Documents\2312678_NLBLong\ThucHanh2_OnTap1\bin\Debug\ThucHanh2_OnTap1.exe.config
+\\Mac\Home\Documents\2312678_NLBLong\ThucHanh2_OnTap1\bin\Debug\ThucHanh2_OnTap1.exe
+\\Mac\Home\Documents\2312678_NLBLong\ThucHanh2_OnTap1\bin\Debug\ThucHanh2_OnTap1.pdb
+\\Mac\Home\Documents\2312678_NLBLong\ThucHanh2_OnTap1\obj\Debug\ThucHanh2_OnTap1.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\2312678_NLBLong\ThucHanh2_OnTap1\obj\Debug\ThucHanh2_OnTap1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\2312678_NLBLong\ThucHanh2_OnTap1\obj\Debug\ThucHanh2_OnTap1.exe
+\\Mac\Home\Documents\2312678_NLBLong\ThucHanh2_OnTap1\obj\Debug\ThucHanh2_OnTap1.pdb

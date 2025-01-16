@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\2312678_NLBLong_OnTap2\BaiOnTap2\bin\Debug\BaiOnTap2.exe.config
+\\Mac\Home\Desktop\2312678_NLBLong_OnTap2\BaiOnTap2\bin\Debug\BaiOnTap2.exe
+\\Mac\Home\Desktop\2312678_NLBLong_OnTap2\BaiOnTap2\bin\Debug\BaiOnTap2.pdb
+\\Mac\Home\Desktop\2312678_NLBLong_OnTap2\BaiOnTap2\obj\Debug\BaiOnTap2.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\2312678_NLBLong_OnTap2\BaiOnTap2\obj\Debug\BaiOnTap2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\2312678_NLBLong_OnTap2\BaiOnTap2\obj\Debug\BaiOnTap2.exe
+\\Mac\Home\Desktop\2312678_NLBLong_OnTap2\BaiOnTap2\obj\Debug\BaiOnTap2.pdb
+\\Mac\Home\Desktop\2312678_NLBLong_OnTap2\BaiOnTap2\bin\Debug\Data.txt

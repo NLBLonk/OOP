@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{330FD521-00D3-419B-BD73-996FD3DA5AFB}|KeThua_QLHinhHoc\\KeThua_QLHinhHoc.csproj|\\\\mac\\home\\desktop\\kethua_qlhinhhoc\\kethua_qlhinhhoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FD521-00D3-419B-BD73-996FD3DA5AFB}|KeThua_QLHinhHoc\\KeThua_QLHinhHoc.csproj|\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\kethua_qlhinhhoc\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FD521-00D3-419B-BD73-996FD3DA5AFB}|KeThua_QLHinhHoc\\KeThua_QLHinhHoc.csproj|\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\kethua_qlhinhhoc\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FD521-00D3-419B-BD73-996FD3DA5AFB}|KeThua_QLHinhHoc\\KeThua_QLHinhHoc.csproj|\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\kethua_qlhinhhoc\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FD521-00D3-419B-BD73-996FD3DA5AFB}|KeThua_QLHinhHoc\\KeThua_QLHinhHoc.csproj|\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\kethua_qlhinhhoc\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 278,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\KeThua_QLHinhHoc\\Triangle.cs",
+              "RelativeDocumentMoniker": "KeThua_QLHinhHoc\\Triangle.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\KeThua_QLHinhHoc\\Triangle.cs",
+              "RelativeToolTip": "KeThua_QLHinhHoc\\Triangle.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA7wCAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:47:17.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\KeThua_QLHinhHoc\\Rectangle.cs",
+              "RelativeDocumentMoniker": "KeThua_QLHinhHoc\\Rectangle.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\KeThua_QLHinhHoc\\Rectangle.cs",
+              "RelativeToolTip": "KeThua_QLHinhHoc\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:47:17.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\KeThua_QLHinhHoc\\Circle.cs",
+              "RelativeDocumentMoniker": "KeThua_QLHinhHoc\\Circle.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\KeThua_QLHinhHoc\\Circle.cs",
+              "RelativeToolTip": "KeThua_QLHinhHoc\\Circle.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAArwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:47:17.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\KeThua_QLHinhHoc\\Shape.cs",
+              "RelativeDocumentMoniker": "KeThua_QLHinhHoc\\Shape.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\KeThua_QLHinhHoc\\Shape.cs",
+              "RelativeToolTip": "KeThua_QLHinhHoc\\Shape.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:47:17.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\KeThua_QLHinhHoc\\Program.cs",
+              "RelativeDocumentMoniker": "KeThua_QLHinhHoc\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\KeThua_QLHinhHoc\\KeThua_QLHinhHoc\\Program.cs",
+              "RelativeToolTip": "KeThua_QLHinhHoc\\Program.cs",
+              "ViewState": "AQIAABQAAAAgZmZmZmYTwCAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:47:18.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

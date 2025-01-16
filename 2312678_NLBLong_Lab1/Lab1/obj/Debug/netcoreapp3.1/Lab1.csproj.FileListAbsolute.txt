@@ -1,0 +1,15 @@
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\bin\Debug\netcoreapp3.1\a.txt
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\bin\Debug\netcoreapp3.1\b.txt
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\Bao Long\Desktop\2312678_NLBLong_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache

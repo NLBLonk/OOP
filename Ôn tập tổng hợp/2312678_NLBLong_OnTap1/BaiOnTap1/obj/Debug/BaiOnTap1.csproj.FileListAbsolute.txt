@@ -1,0 +1,16 @@
+C:\Users\CICT\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\bin\Debug\Data.txt
+C:\Users\CICT\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\bin\Debug\BaiOnTap1.exe.config
+C:\Users\CICT\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\bin\Debug\BaiOnTap1.exe
+C:\Users\CICT\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\bin\Debug\BaiOnTap1.pdb
+C:\Users\CICT\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\obj\Debug\BaiOnTap1.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\obj\Debug\BaiOnTap1.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\obj\Debug\BaiOnTap1.exe
+C:\Users\CICT\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\obj\Debug\BaiOnTap1.pdb
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\bin\Debug\Data.txt
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\bin\Debug\BaiOnTap1.exe.config
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\bin\Debug\BaiOnTap1.exe
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\bin\Debug\BaiOnTap1.pdb
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\obj\Debug\BaiOnTap1.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\obj\Debug\BaiOnTap1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\obj\Debug\BaiOnTap1.exe
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap1\BaiOnTap1\obj\Debug\BaiOnTap1.pdb

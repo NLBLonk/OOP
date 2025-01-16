@@ -1,0 +1,8 @@
+C:\Users\CICT\Downloads\2312678_NLBLong_Lab7\QuanLyDongVat\bin\Debug\QuanLyDongVat.exe.config
+C:\Users\CICT\Downloads\2312678_NLBLong_Lab7\QuanLyDongVat\bin\Debug\QuanLyDongVat.exe
+C:\Users\CICT\Downloads\2312678_NLBLong_Lab7\QuanLyDongVat\bin\Debug\QuanLyDongVat.pdb
+C:\Users\CICT\Downloads\2312678_NLBLong_Lab7\QuanLyDongVat\obj\Debug\QuanLyDongVat.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\2312678_NLBLong_Lab7\QuanLyDongVat\obj\Debug\QuanLyDongVat.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\2312678_NLBLong_Lab7\QuanLyDongVat\obj\Debug\QuanLyDongVat.exe
+C:\Users\CICT\Downloads\2312678_NLBLong_Lab7\QuanLyDongVat\obj\Debug\QuanLyDongVat.pdb
+C:\Users\CICT\Downloads\2312678_NLBLong_Lab7\QuanLyDongVat\bin\Debug\Data.txt

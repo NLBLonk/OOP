@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19631A60-F0E3-4732-98D0-277FBE6CF4C3}|BaiOnTap3\\BaiOnTap3.csproj|\\\\mac\\home\\desktop\\2312678_nlblong_baiontap3\\baiontap3\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631A60-F0E3-4732-98D0-277FBE6CF4C3}|BaiOnTap3\\BaiOnTap3.csproj|\\\\mac\\home\\desktop\\2312678_nlblong_baiontap3\\baiontap3\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631A60-F0E3-4732-98D0-277FBE6CF4C3}|BaiOnTap3\\BaiOnTap3.csproj|\\\\mac\\home\\desktop\\2312678_nlblong_baiontap3\\baiontap3\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631A60-F0E3-4732-98D0-277FBE6CF4C3}|BaiOnTap3\\BaiOnTap3.csproj|\\\\mac\\home\\desktop\\2312678_nlblong_baiontap3\\baiontap3\\nhanvienkynang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631A60-F0E3-4732-98D0-277FBE6CF4C3}|BaiOnTap3\\BaiOnTap3.csproj|\\\\mac\\home\\desktop\\2312678_nlblong_baiontap3\\baiontap3\\kynang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631A60-F0E3-4732-98D0-277FBE6CF4C3}|BaiOnTap3\\BaiOnTap3.csproj|\\\\mac\\home\\desktop\\2312678_nlblong_baiontap3\\baiontap3\\chinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631A60-F0E3-4732-98D0-277FBE6CF4C3}|BaiOnTap3\\BaiOnTap3.csproj|\\\\mac\\home\\desktop\\2312678_nlblong_baiontap3\\baiontap3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.txt",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\Data.txt",
+              "RelativeDocumentMoniker": "BaiOnTap3\\Data.txt",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\Data.txt",
+              "RelativeToolTip": "BaiOnTap3\\Data.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-13T05:58:09.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhSachNhanVien.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\DanhSachNhanVien.cs",
+              "RelativeDocumentMoniker": "BaiOnTap3\\DanhSachNhanVien.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\DanhSachNhanVien.cs",
+              "RelativeToolTip": "BaiOnTap3\\DanhSachNhanVien.cs",
+              "ViewState": "AQIAAN4AAAAA/f///78swBMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:56:14.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienKyNang.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\NhanVienKyNang.cs",
+              "RelativeDocumentMoniker": "BaiOnTap3\\NhanVienKyNang.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\NhanVienKyNang.cs",
+              "RelativeToolTip": "BaiOnTap3\\NhanVienKyNang.cs",
+              "ViewState": "AQIAAAYAAACAmZmZmZkewAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:55:42.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BaiOnTap3\\NhanVien.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\NhanVien.cs",
+              "RelativeToolTip": "BaiOnTap3\\NhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:55:02.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KyNang.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\KyNang.cs",
+              "RelativeDocumentMoniker": "BaiOnTap3\\KyNang.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\KyNang.cs",
+              "RelativeToolTip": "BaiOnTap3\\KyNang.cs",
+              "ViewState": "AQIAAAcAAACg//////8QwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:54:21.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiNhanh.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\ChiNhanh.cs",
+              "RelativeDocumentMoniker": "BaiOnTap3\\ChiNhanh.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\ChiNhanh.cs",
+              "RelativeToolTip": "BaiOnTap3\\ChiNhanh.cs",
+              "ViewState": "AQIAAAQAAADAzMzMzIwjwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:53:18.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\Program.cs",
+              "RelativeDocumentMoniker": "BaiOnTap3\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_BaiOnTap3\\BaiOnTap3\\Program.cs",
+              "RelativeToolTip": "BaiOnTap3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:50:47.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap4\BaiOnTap4\obj\Debug\BaiOnTap4.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap4\BaiOnTap4\obj\Debug\BaiOnTap4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap4\BaiOnTap4\bin\Debug\BaiOnTap4.exe.config
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap4\BaiOnTap4\bin\Debug\BaiOnTap4.exe
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap4\BaiOnTap4\bin\Debug\BaiOnTap4.pdb
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap4\BaiOnTap4\obj\Debug\BaiOnTap4.exe
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap4\BaiOnTap4\obj\Debug\BaiOnTap4.pdb
+\\Mac\Home\Downloads\2312678_NLBLong_OnTap4\BaiOnTap4\bin\Debug\Data.txt

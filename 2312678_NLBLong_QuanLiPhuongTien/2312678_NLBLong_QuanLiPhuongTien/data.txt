@@ -1,0 +1,6 @@
+﻿Car,Honda,50,5
+Car,Toyota Inova,900,7
+Motorcycle,Honda,40,0
+Motorcycle,Yamaha,900,0
+Car,F1,900,5
+Car,Vin,40,4

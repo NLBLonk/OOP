@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Downloads\\2312678_NLBLong_OnTap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12BFA13A-212E-4DF2-A21E-B550189E6E29}|BaiOnTap1\\BaiOnTap1.csproj|\\\\mac\\home\\downloads\\2312678_nlblong_ontap1\\baiontap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BFA13A-212E-4DF2-A21E-B550189E6E29}|BaiOnTap1\\BaiOnTap1.csproj|\\\\mac\\home\\downloads\\2312678_nlblong_ontap1\\baiontap1\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BFA13A-212E-4DF2-A21E-B550189E6E29}|BaiOnTap1\\BaiOnTap1.csproj|\\\\mac\\home\\downloads\\2312678_nlblong_ontap1\\baiontap1\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BFA13A-212E-4DF2-A21E-B550189E6E29}|BaiOnTap1\\BaiOnTap1.csproj|\\\\mac\\home\\downloads\\2312678_nlblong_ontap1\\baiontap1\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BFA13A-212E-4DF2-A21E-B550189E6E29}|BaiOnTap1\\BaiOnTap1.csproj|\\\\mac\\home\\downloads\\2312678_nlblong_ontap1\\baiontap1\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nguoi.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\2312678_NLBLong_OnTap1\\BaiOnTap1\\Nguoi.cs",
+              "RelativeDocumentMoniker": "BaiOnTap1\\Nguoi.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\2312678_NLBLong_OnTap1\\BaiOnTap1\\Nguoi.cs",
+              "RelativeToolTip": "BaiOnTap1\\Nguoi.cs",
+              "ViewState": "AQIAAA0AAADQ0szMzMwDwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:16:36.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.txt",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\2312678_NLBLong_OnTap1\\BaiOnTap1\\Data.txt",
+              "RelativeDocumentMoniker": "BaiOnTap1\\Data.txt",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\2312678_NLBLong_OnTap1\\BaiOnTap1\\Data.txt",
+              "RelativeToolTip": "BaiOnTap1\\Data.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-06T12:51:45.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\2312678_NLBLong_OnTap1\\BaiOnTap1\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BaiOnTap1\\NhanVien.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\2312678_NLBLong_OnTap1\\BaiOnTap1\\NhanVien.cs",
+              "RelativeToolTip": "BaiOnTap1\\NhanVien.cs",
+              "ViewState": "AQIAACkAAABAMzMzM7MiwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:54:22.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyNhanVien.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\2312678_NLBLong_OnTap1\\BaiOnTap1\\QuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "BaiOnTap1\\QuanLyNhanVien.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\2312678_NLBLong_OnTap1\\BaiOnTap1\\QuanLyNhanVien.cs",
+              "RelativeToolTip": "BaiOnTap1\\QuanLyNhanVien.cs",
+              "ViewState": "AQIAAKEAAAAAz8zMzMzwv5QBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:48:39.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\2312678_NLBLong_OnTap1\\BaiOnTap1\\Program.cs",
+              "RelativeDocumentMoniker": "BaiOnTap1\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\2312678_NLBLong_OnTap1\\BaiOnTap1\\Program.cs",
+              "RelativeToolTip": "BaiOnTap1\\Program.cs",
+              "ViewState": "AQIAAFMBAACA+v////8LwEMBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:23:01.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

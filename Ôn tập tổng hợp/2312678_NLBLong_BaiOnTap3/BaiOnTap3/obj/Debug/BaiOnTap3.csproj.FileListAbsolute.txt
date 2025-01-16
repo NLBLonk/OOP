@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\2312678_NLBLong_BaiOnTap3\BaiOnTap3\bin\Debug\BaiOnTap3.exe.config
+\\Mac\Home\Desktop\2312678_NLBLong_BaiOnTap3\BaiOnTap3\bin\Debug\BaiOnTap3.exe
+\\Mac\Home\Desktop\2312678_NLBLong_BaiOnTap3\BaiOnTap3\bin\Debug\BaiOnTap3.pdb
+\\Mac\Home\Desktop\2312678_NLBLong_BaiOnTap3\BaiOnTap3\obj\Debug\BaiOnTap3.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\2312678_NLBLong_BaiOnTap3\BaiOnTap3\obj\Debug\BaiOnTap3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\2312678_NLBLong_BaiOnTap3\BaiOnTap3\obj\Debug\BaiOnTap3.exe
+\\Mac\Home\Desktop\2312678_NLBLong_BaiOnTap3\BaiOnTap3\obj\Debug\BaiOnTap3.pdb
+\\Mac\Home\Desktop\2312678_NLBLong_BaiOnTap3\BaiOnTap3\bin\Debug\Data.txt

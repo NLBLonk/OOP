@@ -1,0 +1,8 @@
+﻿AnPham,2005,Kim Đồng,Chí Phèo
+AnPham,2010,Marvel,Iron Man
+Sach,2001,DamMe,Con Người Ta,0,0,911200121,Lê Văn Tèo
+TapChi,2005,Tokyo Comic,Shinosuke,12,8
+TapChi,2019,Tre,Báo,2,3
+Sach,2010,Kim Đồng,Đắc Nhân Tâm,0,0,902384934,Dale Carnaghe
+TapChi,2009,F1 Magazine,F1 New,6,9
+TapChi,2015,S1,Maza,4,5

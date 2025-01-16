@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75BDAD70-8A00-47EF-BBE7-8B2BB2FBDD1E}|2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien.csproj|\\\\mac\\home\\desktop\\2312678_nlblong_quanliphuongtien\\2312678_nlblong_quanliphuongtien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BDAD70-8A00-47EF-BBE7-8B2BB2FBDD1E}|2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien.csproj|\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_nlblong_quanliphuongtien\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BDAD70-8A00-47EF-BBE7-8B2BB2FBDD1E}|2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien.csproj|\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_nlblong_quanliphuongtien\\danhsachxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BDAD70-8A00-47EF-BBE7-8B2BB2FBDD1E}|2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien.csproj|\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_nlblong_quanliphuongtien\\danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BDAD70-8A00-47EF-BBE7-8B2BB2FBDD1E}|2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien.csproj|\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_nlblong_quanliphuongtien\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BDAD70-8A00-47EF-BBE7-8B2BB2FBDD1E}|2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien.csproj|\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_nlblong_quanliphuongtien\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BDAD70-8A00-47EF-BBE7-8B2BB2FBDD1E}|2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien.csproj|\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_nlblong_quanliphuongtien\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\Program.cs",
+              "RelativeDocumentMoniker": "2312678_NLBLong_QuanLiPhuongTien\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\Program.cs",
+              "RelativeToolTip": "2312678_NLBLong_QuanLiPhuongTien\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAlZmZmZkcwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:42:21.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.txt",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\data.txt",
+              "RelativeDocumentMoniker": "2312678_NLBLong_QuanLiPhuongTien\\data.txt",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\data.txt",
+              "RelativeToolTip": "2312678_NLBLong_QuanLiPhuongTien\\data.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-23T10:42:10.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhSachXe.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\DanhSachXe.cs",
+              "RelativeDocumentMoniker": "2312678_NLBLong_QuanLiPhuongTien\\DanhSachXe.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\DanhSachXe.cs",
+              "RelativeToolTip": "2312678_NLBLong_QuanLiPhuongTien\\DanhSachXe.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwDkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:37:08.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhSachKhachHang.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\DanhSachKhachHang.cs",
+              "RelativeDocumentMoniker": "2312678_NLBLong_QuanLiPhuongTien\\DanhSachKhachHang.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\DanhSachKhachHang.cs",
+              "RelativeToolTip": "2312678_NLBLong_QuanLiPhuongTien\\DanhSachKhachHang.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:25:39.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\Vehicle.cs",
+              "RelativeDocumentMoniker": "2312678_NLBLong_QuanLiPhuongTien\\Vehicle.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\Vehicle.cs",
+              "RelativeToolTip": "2312678_NLBLong_QuanLiPhuongTien\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:16:48.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\KhachHang.cs",
+              "RelativeDocumentMoniker": "2312678_NLBLong_QuanLiPhuongTien\\KhachHang.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\KhachHang.cs",
+              "RelativeToolTip": "2312678_NLBLong_QuanLiPhuongTien\\KhachHang.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:12:52.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "2312678_NLBLong_QuanLiPhuongTien\\Motorcycle.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\2312678_NLBLong_QuanLiPhuongTien\\2312678_NLBLong_QuanLiPhuongTien\\Motorcycle.cs",
+              "RelativeToolTip": "2312678_NLBLong_QuanLiPhuongTien\\Motorcycle.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:05:30.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

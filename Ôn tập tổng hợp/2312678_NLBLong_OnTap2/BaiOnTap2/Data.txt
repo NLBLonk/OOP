@@ -1,0 +1,12 @@
+﻿435566,Nguyễn Văn,An,IT,Kỹ sư phần mêm,1000,10
+439893,Lê Thị,Bành,KT01,Kế toán,500,10
+538989,Nguyễn Thị Minh,Trang,KT02,Kế toán,500,5
+453656,Nguyễn Trung,Thiều,BV1,Bảo vệ,250,5
+432539,Nguyễn Trần Văn,Hải,BV2,Bảo vê,300,1.5
+354687,Trần Thanh,Bình,IT,Kỹ sư phần mềm,900,5
+456758,Nguyễn Lê Minh,Tú,NV01,Nhân viên văn phòng,500,5
+342455,Lê Thị Thanh,Thảo,NV01,Nhân viên văn phòng,400,4
+432546,K'By,By,NV02,Nhân viên văn phòng,400,4
+342545,Lê Văn,Luận,IT,Kỹ sư phần mềm,800,10
+435454,Trần Minh,Anh,KT01,Kế toán,400,10
+223445,Nguyễn Thanh,Nhân,KT01,Trưởng phòng,600,10

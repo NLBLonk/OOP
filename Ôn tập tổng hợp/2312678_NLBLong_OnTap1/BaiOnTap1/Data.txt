@@ -1,0 +1,7 @@
+﻿Nguoi,69 Nguyễn Công Trứ,Van An,69
+Nguoi,180 Bùi Thị Xuân,Văn Tèo,20
+NhanVien,56 Trần Khánh Dư,Nguyễn Lý,28,500,NV001,Nhân Viên
+QuanLy,30A Võ Thị Sáu,Thanh Tâm,40,1800,MN001,Quản Lý,IT
+NhanVien,3 Phù Đổng,Thanh Huy,21,400,NV002,Nhân Viên
+Nguoi,3 Trần Khánh Dư,Lê Khánh,18
+NhanVien,59 Thống Nhất,Bảo Huy,25,600,NV003,Kế Toán

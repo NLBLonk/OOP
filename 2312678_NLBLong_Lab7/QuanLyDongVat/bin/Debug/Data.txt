@@ -1,0 +1,5 @@
+﻿Bat,Dơi,56
+Bird,Chim,7
+Lion,Sư Tử,18
+Lion,Sư Tử Cái,9
+Lion, Simba, 69
